@@ -1,5 +1,35 @@
-### Hi there 👋
+# Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
+
+### 👨‍💻 My name is Marcos V Panyagua, I am from Brazil and I am a **Data Scientist/Software Engineer**.
+### I am living in Kansas and I am currently working as a Big Data Analyst for Infosys.
+
+
+
+### 🛠️ Programming Skills:
+
+- Python / R / SQL
+- Tableau / Matplotlib / Seaborn / ggplot2 / Plotly
+- Hadoop / Spark / Cassandra
+- EC2 / RDS / EKS / IAM / S3 / Route 53 / Cloud Front
+
+### 🌱 I’m currently studying:
+
+- Deployement on the cloud using AWS products
+- Best practices of cloud deployement and it's maintenance
+- Tableau 
+
+### ⚡ Hobbies:
+
+- Brazilian Jiu-Jitsu
+- Boardgames
+- Spend quality time with my loved ones
+  
+  
+  
+  ## If you want to reach out to me, please do it through [**LinkedIn**](https://www.linkedin.com/in/marcosvpanyagua/)!
+  > Take care and stay safe!
+  
 <!--
 **marcosvppfernandes/marcosvppfernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +44,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
