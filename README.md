@@ -1,7 +1,7 @@
 # Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
 
-### 👨‍💻 My name is Marcos V Panyagua, I am from Brazil and I am a **Data Scientist/Software Engineer**.
+### 👨‍💻 My name is Marcos, I am from Brazil and I am a **Data Scientist/Software Engineer**.
 ### I am living in Kansas and I am currently working as a Big Data Analyst for Infosys.
 
 
@@ -27,8 +27,9 @@
   
   
   
-  ## If you want to reach out to me, please do it through [**LinkedIn**](https://www.linkedin.com/in/marcosvpanyagua/)!
-  > Take care and stay safe!
+  ## If you want to reach out to me, please do it through my email marcosvpanyagua@gmail.com or [**LinkedIn**](https://www.linkedin.com/in/marcosvpanyagua/)!
+  ## Note that I might take a little bit to respond, since I am not very active on social media.
+  ## Take care and stay safe!
   
 <!--
 **marcosvppfernandes/marcosvppfernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
