@@ -1,8 +1,8 @@
-# Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+# Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="31px">
 
 
 ### 👨‍💻 My name is Marcos, I am from Brazil and I am a **Data Scientist/Software Engineer**.
-### I am living in Kansas and I am currently working as a Big Data Analyst for Infosys.
+### I am living in the U.S. and I am currently working as a Big Data Analyst for Infosys.
 
 
 
@@ -21,9 +21,9 @@
 
 ### ⚡ Hobbies:
 
-- Brazilian Jiu-Jitsu
+- Brazilian Jiu-Jitsu 🤼‍♂️
 - Boardgames
-- Spend quality time with my loved ones
+- Spend quality time with my loved ones ❤️ 
   
   
   
