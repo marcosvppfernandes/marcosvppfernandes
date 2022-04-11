@@ -15,7 +15,7 @@
 
 ### 🌱 I’m currently studying:
 
-- Deployement on the cloud using AWS products
+- Deployement on the cloud using AWS/GCP
 - Best practices of cloud deployement and it's maintenance
 - Tableau 
 
