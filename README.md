@@ -22,7 +22,7 @@
 ### ⚡ Hobbies:
 
 - Brazilian Jiu-Jitsu 🤼‍♂️
-- Boardgames
+- Boardgames 🎲
 - Spend quality time with my loved ones ❤️ 
   
   
