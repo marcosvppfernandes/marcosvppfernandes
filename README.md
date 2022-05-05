@@ -15,15 +15,15 @@
 
 ### 🌱 I’m currently studying:
 
-- Deployement on the cloud using AWS/GCP
-- Best practices of cloud deployement and it's maintenance
+- Deployment on the cloud using AWS/GCP
+- Best practices of cloud deployment and its maintenance
 - Tableau 
 
 ### ⚡ Hobbies:
 
 - Brazilian Jiu-Jitsu 🤼‍♂️
 - Boardgames 🎲
-- Spend quality time with my loved ones ❤️ 
+- Spending quality time with my loved ones ❤️ 
   
   
   
