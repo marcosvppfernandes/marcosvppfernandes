@@ -1,7 +1,7 @@
 # Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="31px">
 
 
-### 👨‍💻 My name is Marcos, I am from Brazil and I am a *Big Nerd / Cloud Support Engineer / Data Analyst / Eternal Student**.
+### 👨‍💻 My name is Marcos, I am from Brazil and I am a *Cloud Support Engineer/Data Analyst*.
 ### I am living in the U.S. and I am currently working as a CSA for AWS.
 
 
