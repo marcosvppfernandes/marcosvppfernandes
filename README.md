@@ -1,8 +1,8 @@
 # Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="31px">
 
 
-### 👨‍💻 My name is Marcos, I am from Brazil and I am a *Cloud Support Engineer/Data Analyst*.
-### I am living in the U.S. and I am currently working as a CSA for AWS.
+### 👨‍💻 My name is Marcos, I am from Brazil and I am a *Cloud Engineer/Data Analyst*.
+### I am living in the U.S. and I am currently working as a CSE for AWS.
 
 
 
@@ -18,12 +18,13 @@
 - Deployment on the cloud using all the services from AWS
 - Best practices of cloud deployment and its maintenance
 - Data Visualization and interactive dashboard
+- A.I. and integrations
 
 ### ⚡ Hobbies:
 
+- Spending quality time with my loved ones ❤️
 - Brazilian Jiu-Jitsu 🤼‍♂️
 - Boardgames 🎲
-- Spending quality time with my loved ones ❤️
   
   
   
