@@ -11,7 +11,7 @@
 - Python / R / SQL
 - Tableau / Matplotlib / Seaborn / ggplot2 / Plotly
 - Hadoop / Spark / Cassandra
-- EC2 / RDS / EKS / IAM / S3 / Route 53 / Cloud Front
+- SageMaker / Bedrock / EC2 / RDS / EKS / IAM / S3 / Route 53 / Cloud Front
 
 ### 🌱 I’m currently studying:
 
