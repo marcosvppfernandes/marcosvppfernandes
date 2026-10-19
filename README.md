@@ -2,7 +2,7 @@
 
 
 ### 👨‍💻 My name is Marcos, I am from Brazil and I am a *Cloud Engineer/Data Analyst*.
-### I am living in the U.S. and I am currently working as a CSE for AWS.
+### I am living in the U.S. and I am currently working as a DSE for AWS in a product called UOps.
 
 
 
@@ -22,9 +22,10 @@
 
 ### ⚡ Hobbies:
 
-- Spending quality time with my loved ones ❤️
+- Spending quality time with my loved ones, including my baby ❤️
 - Brazilian Jiu-Jitsu 🤼‍♂️
 - Boardgames 🎲
+- Birdwatching 𓅪
   
   
   
